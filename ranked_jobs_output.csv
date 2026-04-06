@@ -1,0 +1,155 @@
+title,company_name,location,source,description,job_highlights,apply_options,schedule_type,qualifications,full_text,pre_score,skill_score,semantic_score,cross_score,final_score
+staff data engineer,PrizePicks,"Remote, OR",Indeed,"At PrizePicks, we are the fastest-growing sports company in North America, as recognized by Inc. 5000. As the leading platform for Daily Fantasy Sports, we cover a diverse range of sports leagues, including the NFL, NBA, and Esports titles like League of Legends and Counter-Strike. Our team of over 450 employees thrives in an inclusive culture that values individuals from diverse backgrounds, regardless of their level of sports fandom. Ready to reimagine the DFS industry together?
+
+As a Staff Data Engineer, you will develop, maintain, test, and lead data infrastructure projects and help PrizePicks offer a scalable, reliable, and smarter data ecosystem for faster data-driven decisions.
+
+What you'll do:
+• Enhance the capabilities of our existing Core Data Platform and develop new integrations with both internal and external APIs within the Data organization.
+• Experienced in building robust real-time and batch data pipelines with a focus on data modeling, ETL/ELT best practices, and reliability. Adept at defining and driving data architecture standards to ensure scalable, governed solutions across teams.
+• Develop and maintain advanced data pipelines and transformation logic using Python and Go, ensuring efficient and reliable data processing.
+• Collaborate with Data Scientists and Data Science Engineers to support the needs of advanced ML development.
+• Collaborate with Analytics Engineers to enhance data transformation processes, streamline CI/CD pipelines, and optimize team collaboration workflows Using DBT.
+• Work closely with DevOps and Infrastructure teams to ensure the maturity and success of the Core Data platform.
+• Guide teams in implementing and maintaining comprehensive monitoring, alerting, and documentation practices, and coordinate with Engineering teams to ensure continuous feature availability.
+• Design and implement Infrastructure as Code (IaC) solutions to automate and streamline data infrastructure deployment, ensuring scalable, consistent configurations aligned with data engineering best practices.
+• Build and maintain CI/CD pipelines to automate the deployment of data solutions, ensuring robust testing, seamless integration, and adherence to best practices in version control, automation, and quality assurance.
+• Experienced in designing and automating data governance workflows and tool integrations across complex environments, ensuring data integrity and protection throughout the data lifecycle.
+• Serve as a Staff Engineer within the broader PrizePicks technology organization by staying current with emerging technologies, implementing innovative solutions, and sharing knowledge and best practices with junior team members and collaborators.
+• Ensure code is thoroughly tested, effectively integrated, and efficiently deployed, in alignment with industry best practices for version control, automation, and quality assurance.
+• Mentor and support junior engineers by providing guidance, coaching and educational opportunities
+• Provide on-call support as part of a shared rotation between the Data and Analytics Engineering teams to maintain system reliability and respond to critical issues.
+
+What you have:
+• 7+ years of experience in a data Engineering, or data-oriented software engineering role creating and pushing end-to-end data engineering pipelines.
+• 3+ years of experience acting as technical lead and providing mentorship and feedback to junior engineers.
+• Extensive experience building and optimizing cloud-based data streaming pipelines and infrastructure.
+• Extensive experience exposing real-time predictive model outputs to production-grade systems leveraging large-scale distributed data processing and model training.
+• Experience in most of the following:
+• SQL/NoSQL databases/warehouses: Postgres, BigQuery, BigTable, Materialize, AlloyDB, etc
+• Replication/ELT services: Data Stream, Hevo, etc.
+• Data Transformation services: Spark, Dataproc, etc
+• Scripting languages: SQL, Python, Go.
+• Cloud platform services in GCP and analogous systems: Cloud Storage, Cloud Compute Engine, Cloud Functions, Kubernetes Engine etc.
+• Data Processing and Messaging Systems: Kafka, Pulsar, Flink
+• Code version control: Git
+• Data pipeline and workflow tools: Argo, Airflow, Cloud Composer.
+• Monitoring and Observability platforms: Prometheus, Grafana, ELK stack, Datadog
+• Infrastructure as Code platforms: Terraform, Google Cloud Deployment Manager.
+• Other platform tools such as Redis, FastAPI, and Streamlit.
+• Excellent organizational, communication, presentation, and collaboration experience with organizational technical and non-technical teams
+• Graduate degree in Computer Science, Mathematics, Informatics, Information Systems or other quantitative field
+
+What makes you stand out:
+• Experience building real-time production data engineering pipelines in a daily fantasy sports platform
+
+Where you'll live:
+• While we prefer candidates based in Atlanta, we are open to qualified applicants from anywhere in the U.S. and are willing to consider remote candidates. #LI-Remote
+
+Working at PrizePicks:
+
+The typical salary range for this position is $160,000 to $230,000. At PrizePicks, we consider your role, level, and where you'll be working when determining our salary ranges. The compensation info you see on our job postings gives you an idea of the starting pay range for the position. Your actual pay within that range will depend on your specific work location, as well as your skills, experience, and education. Your recruiter will be happy to chat more about the specific pay range for your location and how we arrived at it during the hiring process.
+
+This application period will remain open for 30 days. We're committed to finding the best candidate, so this date may be adjusted, and any changes will be reflected in this posting.
+
+Date Posted: 12/10/2025
+
+Benefits you'll receive:
+
+In addition to your great compensation package, full-time employees will be eligible for the following perks:
+• Company-subsidized medical, dental, & vision plans
+• 401(k) plan with company match
+• Annual bonus
+• Flexible PTO to encourage a healthy work/life balance (2 weeks STRONGLY encouraged!)
+• Generous paid leave programs, including 16-week paid parental leave and disability benefits
+• Workplace flexibility and modern work schedules focused on getting the job done, not hours clocked
+• Company-wide in-person events and team outings
+• Lifestyle enhancement program
+• Company equipment provided (Windows & Mac options)
+• Annual performance reviews with opportunities for growth and career development
+
+You must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.
+
+PrizePicks is an Equal Opportunity Employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",,"Indeed : https://www.indeed.com/viewjob?jk=2d01662383e14828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+ZipRecruiter : https://www.ziprecruiter.com/c/Abbott/Job/Staff-Data-Engineer/-in-Remote,OR?jid=92ead0ef16e7712e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Teal : https://www.tealhq.com/job/staff-data-engineer_b7e8ac1c-665d-42da-926f-d6ce2d60ed29?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+Jobs Trabajo.org : https://us.trabajo.org/job-3310-ffdf2a1327ddb66cec22488c5531c313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",Full-time,,"staff data engineer at prizepicks, we are the fastest-growing sports company in north america, as recognized by inc. 5000. as the leading platform for daily fantasy sports, we cover a diverse range of sports leagues, including the nfl, nba, and esports titles like league of legends and counter-strike. our team of over 450 employees thrives in an inclusive culture that values individuals from diverse backgrounds, regardless of their level of sports fandom. ready to reimagine the dfs industry together?
+
+as a staff data engineer, you will develop, maintain, test, and lead data infrastructure projects and help prizepicks offer a scalable, reliable, and smarter data ecosystem for faster data-driven decisions.
+
+what you'll do:
+• enhance the capabilities of our existing core data platform and develop new integrations with both internal and external apis within the data organization.
+• experienced in building robust real-time and batch data pipelines with a focus on data modeling, etl/elt best practices, and reliability. adept at defining and driving data architecture standards to ensure scalable, governed solutions across teams.
+• develop and maintain advanced data pipelines and transformation logic using python and go, ensuring efficient and reliable data processing.
+• collaborate with data scientists and data science engineers to support the needs of advanced ml development.
+• collaborate with analytics engineers to enhance data transformation processes, streamline ci/cd pipelines, and optimize team collaboration workflows using dbt.
+• work closely with devops and infrastructure teams to ensure the maturity and success of the core data platform.
+• guide teams in implementing and maintaining comprehensive monitoring, alerting, and documentation practices, and coordinate with engineering teams to ensure continuous feature availability.
+• design and implement infrastructure as code (iac) solutions to automate and streamline data infrastructure deployment, ensuring scalable, consistent configurations aligned with data engineering best practices.
+• build and maintain ci/cd pipelines to automate the deployment of data solutions, ensuring robust testing, seamless integration, and adherence to best practices in version control, automation, and quality assurance.
+• experienced in designing and automating data governance workflows and tool integrations across complex environments, ensuring data integrity and protection throughout the data lifecycle.
+• serve as a staff engineer within the broader prizepicks technology organization by staying current with emerging technologies, implementing innovative solutions, and sharing knowledge and best practices with junior team members and collaborators.
+• ensure code is thoroughly tested, effectively integrated, and efficiently deployed, in alignment with industry best practices for version control, automation, and quality assurance.
+• mentor and support junior engineers by providing guidance, coaching and educational opportunities
+• provide on-call support as part of a shared rotation between the data and analytics engineering teams to maintain system reliability and respond to critical issues.
+
+what you have:
+• 7+ years of experience in a data engineering, or data-oriented software engineering role creating and pushing end-to-end data engineering pipelines.
+• 3+ years of experience acting as technical lead and providing mentorship and feedback to junior engineers.
+• extensive experience building and optimizing cloud-based data streaming pipelines and infrastructure.
+• extensive experience exposing real-time predictive model outputs to production-grade systems leveraging large-scale distributed data processing and model training.
+• experience in most of the following:
+• sql/nosql databases/warehouses: postgres, bigquery, bigtable, materialize, alloydb, etc
+• replication/elt services: data stream, hevo, etc.
+• data transformation services: spark, dataproc, etc
+• scripting languages: sql, python, go.
+• cloud platform services in gcp and analogous systems: cloud storage, cloud compute engine, cloud functions, kubernetes engine etc.
+• data processing and messaging systems: kafka, pulsar, flink
+• code version control: git
+• data pipeline and workflow tools: argo, airflow, cloud composer.
+• monitoring and observability platforms: prometheus, grafana, elk stack, datadog
+• infrastructure as code platforms: terraform, google cloud deployment manager.
+• other platform tools such as redis, fastapi, and streamlit.
+• excellent organizational, communication, presentation, and collaboration experience with organizational technical and non-technical teams
+• graduate degree in computer science, mathematics, informatics, information systems or other quantitative field
+
+what makes you stand out:
+• experience building real-time production data engineering pipelines in a daily fantasy sports platform
+
+where you'll live:
+• while we prefer candidates based in atlanta, we are open to qualified applicants from anywhere in the u.s. and are willing to consider remote candidates. #li-remote
+
+working at prizepicks:
+
+the typical salary range for this position is $160,000 to $230,000. at prizepicks, we consider your role, level, and where you'll be working when determining our salary ranges. the compensation info you see on our job postings gives you an idea of the starting pay range for the position. your actual pay within that range will depend on your specific work location, as well as your skills, experience, and education. your recruiter will be happy to chat more about the specific pay range for your location and how we arrived at it during the hiring process.
+
+this application period will remain open for 30 days. we're committed to finding the best candidate, so this date may be adjusted, and any changes will be reflected in this posting.
+
+date posted: 12/10/2025
+
+benefits you'll receive:
+
+in addition to your great compensation package, full-time employees will be eligible for the following perks:
+• company-subsidized medical, dental, & vision plans
+• 401(k) plan with company match
+• annual bonus
+• flexible pto to encourage a healthy work/life balance (2 weeks strongly encouraged!)
+• generous paid leave programs, including 16-week paid parental leave and disability benefits
+• workplace flexibility and modern work schedules focused on getting the job done, not hours clocked
+• company-wide in-person events and team outings
+• lifestyle enhancement program
+• company equipment provided (windows & mac options)
+• annual performance reviews with opportunities for growth and career development
+
+you must be authorized to work for any employer in the u.s. we are unable to sponsor or take over sponsorship of an employment visa at this time.
+
+prizepicks is an equal opportunity employer. all applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",1,0.4348348348348348,0.40505886,1.0,0.5954516115390861
+python fastapi jobs in remote,,,Indeed,"Sandpiper Brands is seeking a part-time Data/AI Engineer who will thrive in a collaborative role, developing data pipelines, dashboards, and AI-driven ...",Sandpiper Brands is seeking a part-time Data/AI Engineer,https://www.indeed.com/q-python-fastapi-l-remote-jobs.html,,,"python fastapi jobs in remote sandpiper brands is seeking a part-time data/ai engineer who will thrive in a collaborative role, developing data pipelines, dashboards, and ai-driven ...  sandpiper brands is seeking a part-time data/ai engineer",1,0.5692567567567568,0.44351596,0.5000086,0.5107600794450657
+flexible data analyst entry level remote jobs,,,Indeed,Candidate will complete data analytics and data science projects for clients. Intellectually curious about new data tools and data analytics/science strategies.,Candidate will complete data analytics and data science projects for clients,https://www.indeed.com/q-data-analyst-entry-level-remote-jobs.html,,,flexible data analyst entry level remote jobs candidate will complete data analytics and data science projects for clients. intellectually curious about new data tools and data analytics/science strategies.  candidate will complete data analytics and data science projects for clients,1,0.2814671814671814,0.33546245,0.46927887,0.35400927991595504
+data engineer dbt snowflake jobs in remote,,,Indeed,"In this fully remote role, you'll design and optimize secure, scalable data pipelines and cloud data warehouse solutions. Support data governance, security, ...","design and optimize secure, scalable data pipelines and cloud data warehouse solutions",https://www.indeed.com/q-data-engineer-dbt-snowflake-l-remote-jobs.html,,,"data engineer dbt snowflake jobs in remote in this fully remote role, you'll design and optimize secure, scalable data pipelines and cloud data warehouse solutions. support data governance, security, ...  design and optimize secure, scalable data pipelines and cloud data warehouse solutions",1,0.2562162162162162,0.41508296,0.18795608,0.28339820256023796
+"data analysis remote jobs in san antonio, tx",,,Indeed,"Browse 82 Data Analysis Remote job openings from San Antonio, TX. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, ...","Browse 82 Data Analysis Remote job openings from San Antonio, TX","https://www.indeed.com/q-data-analysis-remote-l-san-antonio,-tx-jobs.html",,,"data analysis remote jobs in san antonio, tx browse 82 data analysis remote job openings from san antonio, tx. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, ...  browse 82 data analysis remote job openings from san antonio, tx",1,0.37335907335907337,0.26082313,0.09105585,0.2549073276801114
+data scientist jobs in remote,,,Indeed,"Browse 688 Data Scientist job openings from Remote. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer ...",Browse 688 Data Scientist job openings from Remote,https://www.indeed.com/q-data-scientist-l-remote-jobs.html,,,"data scientist jobs in remote browse 688 data scientist job openings from remote. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, and customer ...  browse 688 data scientist job openings from remote",1,0.0,0.33991253,0.1435293,0.14503255486488342
+data assistant jobs in remote,,,Indeed,"Browse 22 Data Assistant job openings from Remote. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer ...",Browse 22 Data Assistant job openings from Remote,https://www.indeed.com/q-data-assistant-l-remote-jobs.html,,,"data assistant jobs in remote browse 22 data assistant job openings from remote. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, and customer ...  browse 22 data assistant job openings from remote",1,0.0,0.31157258,0.07686024,0.11652985401451588
+data engineer jobs in remote,,,Indeed,"Browse 8671 Data Engineer job openings from Remote. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer ...",Browse 8671 Data Engineer job openings from Remote,https://www.indeed.com/q-data-engineer-l-remote-jobs.html,,,"data engineer jobs in remote browse 8671 data engineer job openings from remote. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, and customer ...  browse 8671 data engineer job openings from remote",1,0.0,0.30615073,0.07040263,0.11296601220965385
+flexible remote data analyst jobs,,,Indeed,"Browse 1237 Remote Data Analyst job openings. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer service.",Browse 1237 Remote Data Analyst job openings,https://www.indeed.com/q-remote-data-analyst-jobs.html,,,"flexible remote data analyst jobs browse 1237 remote data analyst job openings. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, and customer service.  browse 1237 remote data analyst job openings",1,0.0,0.30010659,0.07637349,0.11294402927160263
+web scraping jobs in remote,,,Indeed,"Browse 28 Web Scraping job openings from Remote. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer service.",Browse 28 Web Scraping job openings from Remote,https://www.indeed.com/q-web-scraping-l-remote-jobs.html,,,"web scraping jobs in remote browse 28 web scraping job openings from remote. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, and customer service.  browse 28 web scraping job openings from remote",1,0.0,0.25297365,0.003138227,0.07683356635970995
+"remote document processing jobs in san antonio, tx",,,Indeed,"Browse 7 Remote Document Processing job openings from San Antonio, TX. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, ...","Browse 7 Remote Document Processing job openings from San Antonio, TX","https://www.indeed.com/q-Remote-Document-Processing-l-San-Antonio,-TX-jobs.html",,,"remote document processing jobs in san antonio, tx browse 7 remote document processing job openings from san antonio, tx. discover flexible, work-from-home opportunities on indeed in fields like tech, admin, ...  browse 7 remote document processing job openings from san antonio, tx",1,0.0,0.18910152,0.0,0.05673045665025711
